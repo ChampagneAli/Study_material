@@ -1,0 +1,153 @@
+What is a project?
+- Before we talk about how to manage projects, let's make sure we're all on the same page about what a project is. Here's a formal definition. A project is a temporary endeavor that has a unique goal and usually a budget. That's a start, but what does it really mean? Let's begin with temporary endeavor. Unlike day to day operations, a project has a definite beginning and end. If a project is implementing a new system, the project is done when you successfully hand it over to operations. What if a project seems to go on forever? It could be that you haven't clearly defined what you're trying to accomplish. That brings us to the project goal. A project produces a unique result which could be product, service, or other outcome. In the case study we're using for this course, the hospital is implementing a new scheduling system. Lots of organizations implement scheduling systems but each one has its own set of objectives, constraints and issues. Maybe the hospital struggles with staff shortages or perhaps a big pain point is scheduling equipment along with the skilled staff and rooms needed to operate it. You could be upgrading the scheduling system to improve results and level of care. Finally, most projects have budgets. Most of the time you think money when you hear the word budget. In projects, you'll probably face other constraints as well like how many resources are available. A project isn't the same as operations which represents work that's the same day after day, producing the same results. Admitting patients into the hospital represents operational work. Patients may show up with different medical issues but the people at the front desk follow the same procedures and use the same forms to admit them. Introducing a new scheduling system into the hospital on the other hand, is a project. It will have a specific beginning. It ends when the system is up and running, scheduling hospital resources. It has a unique goal to solve the hospital scheduling issues and it has a budget both in money and resource's time. Over your lifetime, you've probably worked on lots of projects both at work and at home. A project is a temporary endeavor with a unique goal and usually a budget. Using those characteristics, think about what you've done over the past several months. Identify the projects you've worked on during that time by identifying the project's timeframe, what made the project unique and its budget. In the exercise files, you'll find a list of the work I've done recently tagged either as projects or operations.
+
+----
+
+What is project management?
+- Lots of project managers get their start because they're good at making things happen. But project management is more than showing off your organizational skills and supervising others. It means applying knowledge, skills, tools, and techniques to achieve your project's objectives. Project management can be summed up as answering a few crucial questions. The first question you have to answer is, what problem are you solving? Clearly defining what the project is supposed to accomplish is a big step toward making it a success. Legendary baseball manager Yogi Berra's off kilter take on it is, "You've got to be very careful if you don't know where you're going because you might not get there." The second question is, how are you going to solve this problem? Whether you're solving a problem or pursuing an opportunity, you might have to choose from several possible strategies. Once you've picked your approach, it's time to flesh out your solution. Gathering requirements, identifying deliverables, and defining project scope. The next question is, what's your plan? A big part of project management is planning your project. You have to identify the work to be done in detail, how long it might take, the resources you need, and how much they cost. With that info in hand, you can build a schedule of when work should occur. While you're at it, you also need to spell out how you want things to happen in your project, like communication, managing changes, and so on. Some projects seem to go on forever but eventually someone will pull the plug if it doesn't finish. That's why you also have to answer the question, how will you know when you're done? Clearly defined objectives, requirements, and deliverables help answer that question, but you can eliminate uncertainty by defining success criteria: quantifiable, measurable results that show that the project is complete. Like a certificate of occupancy for construction, or increased productivity measurements after a system is implemented. When you get to the end of the project, you're ready to answer the last question: how well did the project go? This important step is often skipped because everyone is so ready to move on to the next deal. You really need to take time to review the project. What worked well, what didn't? Why? How could we have done better? Project management boils down to answering several questions about your project. What problem are you solving? How are you going to solve it? What's your plan for getting the project done? How can you tell when you're done? And how well did the project go?
+
+----
+
+What it takes to be a project manager
+- Most people see project managers as really organized and good at getting things done. But project managers also use a wide variety of skills and knowledge to complete projects successfully. First, there are technical skills specific to project management, like what goes into a project plan? Building and fine tuning a project schedule, reading a Gantt chart, using the critical path, and measuring performance. Then there's business expertise. It's up to you to make sure your project delivers value. You need to understand your organization's business. What it does and what it considers important. That way you can see how your project fits in and you can make good decisions to ensure that your project is successful. Problem solving is another important skill. Projects never, and I mean never, go according to plan. Your job is to figure out how to achieve project objectives and meet the schedule and budget, while working around the problems that arise. One of the most important things in a project manager's toolbox, is interpersonal skills. Projects may use people from different groups, departments, and even different companies. You are the leader of this group so it's your job to help everyone work as a team to get the project done and done well. The most important characteristic of a great project manager is strong leadership. You want to inspire your people, help them become a true team. Guide them to do the right things, hold them accountable, and motivate them to give their best. Does project management sound like something you want to do? This course will help you figure out what you need to know so you can build a plan for developing your skills.
+
+----
+
+The waterfall project management lifecycle
+- [Instructor] The traditional, also called Waterfall project management life cycle, can be broken into five stages or phases that help guide a project successfully from beginning to end. Initiating is all about getting the commitment to start a project. You start by defining the project. What's the project supposed to accomplish? What's the scope? What's a rough estimate of the resources needed and the cost? You also identify the project stakeholders, and make sure they agree on what the project is. From there, you ask for approval to proceed. Planning is where you work with a small team of expert team members to figure out how you're going to perform the project. In essence, planning answers the questions, What are we going to do? How are we going to do it? And how will we know when we're done? When the plan is complete, it's time to get approval to launch the project. The next two areas involve putting your plan into action. Executing starts with launching a project. You bring your full team of resources on board, get them settled in and explain the rules you're using to run the project. After that, everyone jumps in to put the plan into action. Monitoring and controlling a project means checking what's going on in the project and how that compares to what you planned. If the project is sliding off track, you take action to get it back on track. Managing and controlling occurs throughout most of the project life cycle, starting during initiation, and wrapping up when you close the project. Which brings us to closing the project, this part is short but important. You get the client to approve the project, that is, officially accept that the project is complete. You document the project performance, gather lessons learned, close contracts, and help resources move on to their next assignments. Waterfall project management works well when the project goal and solution are clearly defined, and the scope and deliverables are clear cut, such as in building construction. Because you understand what needs to be done, you step through each stage once from start to finish. The more you know about the project, the better the Waterfall approach works. Straightforward projects with very little uncertainty are great candidates, because you know what needs to be done and how to handle issues that arise. If teams have worked on similar projects in the past, they can be more productive because they understand the work and know how to prevent or resolve common problems. That's a quick overview of the Traditional or Waterfall approach and when you might choose it to manage a project.
+
+----
+
+The waterfall project management lifecycle
+- [Instructor] The traditional, also called Waterfall project management life cycle, can be broken into five stages or phases that help guide a project successfully from beginning to end. Initiating is all about getting the commitment to start a project. You start by defining the project. What's the project supposed to accomplish? What's the scope? What's a rough estimate of the resources needed and the cost? You also identify the project stakeholders, and make sure they agree on what the project is. From there, you ask for approval to proceed. Planning is where you work with a small team of expert team members to figure out how you're going to perform the project. In essence, planning answers the questions, What are we going to do? How are we going to do it? And how will we know when we're done? When the plan is complete, it's time to get approval to launch the project. The next two areas involve putting your plan into action. Executing starts with launching a project. You bring your full team of resources on board, get them settled in and explain the rules you're using to run the project. After that, everyone jumps in to put the plan into action. Monitoring and controlling a project means checking what's going on in the project and how that compares to what you planned. If the project is sliding off track, you take action to get it back on track. Managing and controlling occurs throughout most of the project life cycle, starting during initiation, and wrapping up when you close the project. Which brings us to closing the project, this part is short but important. You get the client to approve the project, that is, officially accept that the project is complete. You document the project performance, gather lessons learned, close contracts, and help resources move on to their next assignments. Waterfall project management works well when the project goal and solution are clearly defined, and the scope and deliverables are clear cut, such as in building construction. Because you understand what needs to be done, you step through each stage once from start to finish. The more you know about the project, the better the Waterfall approach works. Straightforward projects with very little uncertainty are great candidates, because you know what needs to be done and how to handle issues that arise. If teams have worked on similar projects in the past, they can be more productive because they understand the work and know how to prevent or resolve common problems. That's a quick overview of the Traditional or Waterfall approach and when you might choose it to manage a project.
+
+----
+
+The Hybrid Project Management Lifecycle
+Hybrid project management is all about flexibility and using the right approach for each part of a project. 
+
+Hybrid projects use a combination of waterfall and agile elements, which typically follow one of these approaches: 
+
+The entire project uses both waterfall and agile elements. 
+The project is broken into pieces, some managed with waterfall and others with agile methods.
+Hybrid lifecycle with fully integrated waterfall and agile methods
+The first hybrid lifecycle fully integrates waterfall and agile methods. Agile methods, such as scrum meetings, having a small, dedicated project team, producing only necessary documentation, and delivering a product in small consumable pieces, are applied to a waterfall approach. Teams produce their deliverables with agile methods. However, project teams play the part of the customer for the individual deliverables, providing feedback, and managing the backlog. When all the small deliverables are completed in this way, the project team presents everything to the actual customer for acceptance. The lifecycle typically proceeds like this:
+
+Draft and get approval for the project charter.
+Collect requirements. 
+Planning
+Determine whether the project will produce a single deliverable or a series of deliverables.
+Identify needed team members and obtain commitment for their participation.
+Determine build approach (examples: tools, facilities, and equipment required procurement).
+Build and test.
+Iterate through build and test with internal project team (in a pre-determined sequence if multiple deliverables are produced).
+Review the full product with customer and obtain product acceptance.
+Close.
+Here is a diagram of what this hybrid approach looks like:
+
+Diagram of an agile hybrid approach
+
+Hybrid lifecycle for project broken into waterfall and agile pieces
+A project that is broken into pieces, some using waterfall and others using agile, has multiple lifecycles. In other words, some project deliverables are built using agile methods, others with waterfall. Typically, the overall solution path uses a waterfall approach with the agile deliverables integrated as shown here:
+
+Primary waterfall deliverable
+
+In this example, agile components 1, 2, and 3 are developed using an agile lifecycle. They are delivered to the Primary waterfall deliverable team, which then integrates those components into the overall solution. They use waterfall to produce the final product for the customer/stakeholders. 
+
+Here is an example of a technology application that must use data taken from new web-based applications and an old legacy IT system. The nature of web-based applications makes agile the ideal approach for the changes and data extraction that the overall solution requires. The waterfall team works with the legacy systems, which are best changed using a waterfall approach, because changes to those systems require meticulous planning, extensive time, and thorough testing. The delivery of the final product which includes the agile-developed web applications and data from legacy systems also uses a waterfall methodology. This combination of approaches optimizes the overall approach used to deliver each component and the overall solution.
+
+As you can see, a hybrid approach isn’t about strictly following one methodology but rather adapting and combining methods to best suit the project's needs.
+
+----
+
+How organizational structure affects projects
+- [Presenter] Organizations can be structured in several ways from the classic functional hierarchy where each person reports to only one supervisor, to a matrix where people report to both functional managers and project managers. To a projectized organization where most of the people work on projects. Each of these structures affects how projects are performed. In a functional hierarchy, projects aren't the priority making it difficult for projects to succeed. Project managers have almost no authority. A functional manager is typically in charge of things like the project budget. Resources are hard to come by because they report to functional managers, not the project manager. Even the project manager and other project management staff have to split their attention between the project and their regular work. The second type, matrix organizations are still functional hierarchies, but they support projects more than pure hierarchies do. They can be weak, balanced, or strong depending on how much emphasis they put on projects. In a matrix, project managers have some authority to make decisions. Resources assigned to projects report to two managers, their functional manager and the project manager. In a strong matrix, the project manager and project admin staff work full time on projects. Projectized organizations are all about projects. This third type makes it easier for project managers to produce results. Project managers have almost complete authority over their projects, including the budget. Resources are dedicated to project work and report to the project manager. Project managers and project admin staff also work full time on project work. Organizational structure has a big influence on how projects are performed, how much a project manager can do, and how easy it is to make projects successful. Using these characteristics, determine which structure your organization uses.
+
+----
+
+How organizational structure affects projects
+- [Presenter] Organizations can be structured in several ways from the classic functional hierarchy where each person reports to only one supervisor, to a matrix where people report to both functional managers and project managers. To a projectized organization where most of the people work on projects. Each of these structures affects how projects are performed. In a functional hierarchy, projects aren't the priority making it difficult for projects to succeed. Project managers have almost no authority. A functional manager is typically in charge of things like the project budget. Resources are hard to come by because they report to functional managers, not the project manager. Even the project manager and other project management staff have to split their attention between the project and their regular work. The second type, matrix organizations are still functional hierarchies, but they support projects more than pure hierarchies do. They can be weak, balanced, or strong depending on how much emphasis they put on projects. In a matrix, project managers have some authority to make decisions. Resources assigned to projects report to two managers, their functional manager and the project manager. In a strong matrix, the project manager and project admin staff work full time on projects. Projectized organizations are all about projects. This third type makes it easier for project managers to produce results. Project managers have almost complete authority over their projects, including the budget. Resources are dedicated to project work and report to the project manager. Project managers and project admin staff also work full time on project work. Organizational structure has a big influence on how projects are performed, how much a project manager can do, and how easy it is to make projects successful. Using these characteristics, determine which structure your organization uses.
+
+----
+
+Project management software options
+- [Instructor] Software tools can make your job as a project manager a little easier. Let's talk about types of software and how you can put it to use managing projects. Scheduling software comes in a variety of shapes and sizes. For most projects, you'll want scheduling software to help you build and manage your project schedule. There are lots of tools out there, such as Microsoft Project, Oracle Primavera, LiquidPlanner, Jira, Smartsheet, Wrike, Asana, and more. Some scheduling tools work better for Waterfall or Agile. Microsoft Project and Oracle Primavera support Agile, but it isn't their strength. Jira is primarily for Agile, but can be used for Waterfall. With online tools, make sure that they support the project management approaches that your organization uses. Most scheduling tools these days work in the cloud to make collaboration easier. When you think about all the project management documents you produce, it's no wonder that a word processing program is essential. Because project documents are laid out similarly from project to project, you can build document templates. That way, you don't have to start from scratch every time. A spreadsheet program is another must have for calculations and analysis. Besides being handy for budgets and other financial calculations, a spreadsheet can help analyze project risks and prioritize which ones you should keep an eye on. A presentation program like PowerPoint or Prezi is useful for communicating project information at a high level, or when you want to include information from other types of documents. Because a team of people work on a project, you need some kind of tool for collaborating with others. Basecamp, Asana, and Microsoft SharePoint are a few cloud-based collaboration tools you can use to share files with others, keep track of issues, or even manage a workflow. If you work in an organization that runs many large projects at the same time, you should consider enterprise project management software. Enterprise-level software provides tools that allow you to find resources with the skills you need and see which resources are available when you need them. It helps you track risks, issues, and other information, and even build document libraries so team members can easily find information they need. We've briefly touched on some of the software options available. If you're researching software to use, consider the following in your decisions: Your organization's culture and work environment, software budget, the organization's project management methodologies, the number of projects you manage, and their complexity.
+
+----
+
+Overview: Online Project Management Software
+Levels of capability
+Products that call themselves project management tools can be divided into roughly three categories:  
+
+Mostly collaboration: Overall, these tools are easy to set up, are reasonably priced, provide good collaboration, and usually support agile projects. But their support for traditional project management is simplistic.   
+Mid-level project management: Mid-level tools are generally quite good. They offer both collaboration features and decent support for both agile and traditional project management. They’re easy to set up and reasonably priced for the capabilities they offer.
+Robust project management: Robust tools vary widely in their characteristics and capabilities. Some are difficult to set up and manage, while others are easy. Some focus more on agile; some are much better for traditional projects; and some cover both. In general, they cost more than tools in the other categories.
+Capabilities for mostly collaborative tools
+Mostly collaborative tools usually (but not always) offer the following capabilities:
+
+Communication/collaboration features such as messaging, message boards, notifications, and workflows
+Work management
+Tasks, subtasks, and milestones
+Sometimes support dependencies and start and due dates
+Templates
+Customization and automation
+Integration with other software
+Support for agile project management
+Collaboration tools often lack the following capabilities:
+
+Scheduling features including robust task dependencies and date recalculation
+Resource management such as overallocation
+Cost management such as labor, material, and other costs, budgets, and so on
+Risk management
+Here are some of the more popular collaborative project management tools:
+
+Asana
+Trello
+ClickUp
+Basecamp
+Mid-level project management capabilities
+Mid-level tools usually offer the following capabilities:
+
+Communication/collaboration features such as messaging, message boards, notifications, and workflows
+Multiple project views such as task lists, Gantt charts, Kanban, progress, workloads
+Tasks, subtasks, and milestones
+Task dependencies and task dates
+Sometimes, automatic date recalculation and critical path calculation
+Baselines
+Sometimes, cost management and budgets
+Templates
+Customization and automation
+Integration with other software
+Mid-level tools often lack the following capabilities:
+
+Robust scheduling
+Robust cost management
+Risk management
+Here are a few popular mid-level project management software tools:
+
+Smartsheet
+Monday.com
+Wrike
+Robust capabilities
+Robust tools usually provide the following features, which aren’t available in lower-level tools:
+
+Robust scheduling
+Automated workload management
+Cost management including hourly rates, multiple rates per person, billable rates, and non-billable time
+Portfolio and program management
+Risk management
+The downside to robust tools is that they come with a much higher degree of difficulty:
+
+Set-up and configuration can be very complex and might require consulting assistance
+Ongoing management requires knowledgeable admins
+Significant training might be needed for users
+Cost is often high
+Here are some popular robust project management software products
+
+Teamwork
+Zoho Projects
+Jira (agile only)
+Microsoft Project Online
+Primavera
+Project management software products vary greatly in approach, features, pros and cons, pricing, and more. You must evaluate tools to make sure that the one you choose will work for your organization’s needs. The course Project Management: Choosing the Right Online Tool provides more detail about the capabilities of several popular project management software products.
+

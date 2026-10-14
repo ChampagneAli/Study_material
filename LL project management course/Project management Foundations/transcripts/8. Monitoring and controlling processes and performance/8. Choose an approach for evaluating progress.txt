@@ -1,0 +1,52 @@
+Choose an Approach for Evaluating Progress
+The data and automation available are the primary factors in determining how to evaluate project progress. Different approaches to evaluating progress require different data, frequency, levels of accuracy, and software. Each approach has its pros and cons, so choose the one that best fits your organization and project. 
+
+Tracking completed milestones
+This is a simple method for tracking and evaluating progress, but it provides a limited view of future performance for the remainder of the project.
+
+Requires: A task plan that includes relevant and frequent milestones 
+Data needed: Planned and actual completion dates for milestones
+Approach: Compare planned versus actual completion dates to check for delays/
+Pros: Meaningful indicator of progress, as long as the milestones are frequent and relevant to management
+Cons: Future performance is difficult to evaluate because this method doesn’t consider the effort and cost needed to complete the project.
+Tracking the number of completed tasks
+This is another simple method for tracking and evaluating progress, but it provides a limited view of future performance.
+
+Requires: All tasks are identified at the beginning of the project.
+Data needed: Timely entry of when tasks are completed
+Approach: Divide the number of completed tasks by total tasks to calculate the project percentage completed.
+Pros: Quick, inexpensive, and easy to share with others; no software needed
+Cons: Very difficult to determine future performance; because tasks vary in length, the percentage of tasks completed often does not reflect the effort or time to complete the project.
+Monitoring progress with a Gantt chart
+A Gantt chart is a good way to monitor schedule progress as long as the prerequisites are in place and data are available. It doesn’t evaluate progress from a cost standpoint.
+
+Requires: All tasks are defined with durations and predecessors and successors in software that offers a Gantt chart view.
+Data needed: Timely entry of task start and end dates, and duration or work complete
+Approach: Visually compare actual versus planned task duration and check for delays in actual or scheduled finish dates.
+Pros: Quick, inexpensive, and easy to share with others; some visibility to downstream impacts as long as task predecessors’ and successors’ logic are defined.
+Cons: Audience must know how to read a Gantt chart. This approach doesn’t evaluate progress from a cost standpoint.
+Tracking actual cost
+Cost is an important aspect of most projects, so tracking actual cost provides important status. However, it doesn’t consider schedule progress and delays can increase future costs.
+
+Requires: Detailed labor tracking, cost reports, and a project cost plan 
+Data needed: Cost of purchases, staff hours spent on the project, and staff hourly rates. Timely and accurate record of hours spent on each task
+Approach: Compare expenditures to the cost plan to calculate the percentage of budget spent to date compared to cost plan.
+Pros: Because cost is a primary concern for most projects, this approach provides a meaningful view of progress to date.
+Cons: Because this approach doesn’t track time and time delays can escalate cost, it provides a limited view of future schedule performance.
+Tracking the critical path
+The critical path in a project provides a meaningful view of progress to date and forecast future performance including the forecast project end date.
+
+Requires: A task plan with start and finish dates, durations, and task predecessors and successor; it also requires an automated tool for calculating and tracking the critical path.
+Data needed: Timely data on task progress (duration or effort) and actual start and finish dates 
+Approach: Compare actual to planned progress on the critical path, noting critical path forecast project end date. 
+Pros: Meaningful indicator of progress and provides view of future schedule and project completion date
+Cons: Cost of software, training to understand and manage critical path, and project costs must be managed separately
+Earned value management
+Earned value management is a comprehensive approach for tracking progress both in time and cost. However, it requires a lot of data in a timely fashion. 
+
+Requires: A task plan with start and finish dates, durations, defined task predecessors and successors, labor tracking of hours assigned to each task, and software
+Data needed: Timely data on task progress (duration or effort), task completion dates, actual start and finish dates, cost for labor hours per team member, hours forecast, and actual hours spent on each task
+Approach: Track the project statistically, looking at actual work performed against the plan and actual cost spent against the plan. This approach also forecasts the cost and end date of the project using ratios of actual to planned. 
+Pros: The most comprehensive approach for managing project status and forecasting the cost and time for project completion 
+Cons: Cost of software, amount of tracking data required, and need for timely finance reports to produce earned value status. (Finance reports often are distributed several weeks after the monthly accounting closes. This lag means the project manager is reactive, defeating the purpose of collecting all the data required for the earned value method.)
+These six methods for evaluating progress have trade-offs between the value of their perspectives of performance and the data and software needed for tracking. Use your judgment to select the best approach for your project or your organization.

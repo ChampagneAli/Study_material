@@ -1,0 +1,12 @@
+Integrating Agile and Waterfall in Hybrid Projects
+When a hybrid project has both agile and waterfall deliverables, those deliverables have to be integrated with one another. Here are several tips for integrating agile and waterfall efforts in a hybrid project:
+
+It’s usually easier to use a waterfall approach as the primary pathway through the project.
+Treat the agile sub-projects as longer-length tasks in the main waterfall project when you build the schedule.
+Working with stakeholders, develop a process to capture the status of the agile sub-projects in the main waterfall schedule status.
+When there are multiple features from an agile sub-project, integrate them individually into the main waterfall project, rather than delivering them all together. That way, there will be time and spacing for the waterfall team to integrate each one, which makes it easier to test and correct errors.
+Make sure to allocate time for people working on agile sub-projects to work on the main waterfall project integration and testing tasks.
+If possible, allow time between product/feature integrations for testing and corrections. Testing more than one integration at the same time makes testing more complex.
+Review impacts on the main waterfall schedule before finalizing the reprioritization of the agile backlog.
+Make sure people in senior roles, like the product owner, understand the method for managing the integration of agile sub-projects with the main waterfall project. Define their roles in both the agile sub-projects and the main waterfall project.
+ A hybrid project will run more smoothly if you follow these tips to integrate the agile and waterfall efforts.
